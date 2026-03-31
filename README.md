@@ -5,3 +5,5 @@ A modular Python-based QR Code Generator that converts text or URLs into scannab
 ## Features
 
 - Generate QR codes from text or URLs
+  
+- Saves output as PNG image
